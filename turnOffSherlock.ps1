@@ -1,5 +1,5 @@
 # This script turns OFF protection mode for CONFIRE SHERLOCK.
-# You should reboot the system right after susccessfull execution of this script.
+# You should reboot the system right after successfull execution of this script.
 #
 # Author: STÜBER SYSTEMS GmbH
 # Last updated: 05.12.2018
